@@ -13,6 +13,7 @@ This repository includes all the tasks done during the course of the ethnus MERN
 - 5 HTML tasks
 - 7 CSS tasks
 - 6 Bootstrap Tasks
+- 8 JavScript Tasks
 
 ## Contact
 
